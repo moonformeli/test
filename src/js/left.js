@@ -7,13 +7,13 @@ export const init = () => {
     let layerHeight = height / 7;
 
     let color = [
-        '#9D2398',
-        '#891F85',
-        '#761A72',
-        '#62165F',
-        '#4F124C',
-        '#3B0D39',
-        '#270926',
+        '#242424',
+        '#2f2f2f',
+        '#3a3a3a',
+        '#454545',
+        '#505050',
+        '#5b5b5b',
+        '#666666',
     ];
 
     let svg = d3.select("#layer")
